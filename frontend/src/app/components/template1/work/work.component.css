@@ -1,0 +1,38 @@
+.cont {
+  margin-bottom: 5px;
+  background-color: bisque;
+}
+
+.title {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: rgb(95, 174, 253);
+  border-bottom: 1px solid rgb(95, 174, 253);
+  display: flex;
+}
+
+.work_info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.work_title {
+  font-weight: bold;
+}
+.company {
+  font-weight: bold;
+  text-decoration: underline;
+}
+.location {
+  font-style: italic;
+}
+.date {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.details {
+  font-size: 0.8rem;
+  text-align: justify;
+}

@@ -1,0 +1,22 @@
+.cont {
+  display: flex;
+  background-color: bisque;
+  gap: 10px;
+  margin-bottom: 5px;
+  text-align: center;
+  justify-content: center;
+}
+
+.item {
+  display: flex;
+}
+
+.icons {
+  width: 20px;
+  height: 20px;
+}
+
+.icon-text {
+  font-size: 0.8rem;
+  margin-left: 10px;
+}

@@ -1,0 +1,17 @@
+.cont {
+  margin-bottom: 5px;
+
+  background-color: beige;
+}
+
+.title {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: rgb(95, 174, 253);
+  border-bottom: 1px solid rgb(95, 174, 253);
+  display: flex;
+}
+
+.skills {
+  font-size: 0.8rem;
+}
