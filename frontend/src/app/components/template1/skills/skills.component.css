@@ -1,7 +1,7 @@
 .cont {
   margin-bottom: 5px;
 
-  background-color: beige;
+  background-color: white;
 }
 
 .title {
@@ -10,6 +10,7 @@
   color: rgb(95, 174, 253);
   border-bottom: 1px solid rgb(95, 174, 253);
   display: flex;
+  margin-bottom: 5px;
 }
 
 .skills {
